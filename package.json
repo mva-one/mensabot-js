@@ -1,0 +1,19 @@
+{
+  "name": "mensabot",
+  "version": "1.0.0",
+  "description": "Telegram bot for canteen",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mva-one/mensabot-js.git"
+  },
+  "author": "mva-one",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mva-one/mensabot-js/issues"
+  },
+  "homepage": "https://github.com/mva-one/mensabot-js#readme"
+}
