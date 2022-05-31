@@ -1,4 +1,4 @@
 {
-    "bot-token": "your-telegram-bot-token-here",
-    "api-url": "i have to keep this secret!"
+    "bot_token": "your-telegram-bot-token-here",
+    "api_url": "i have to keep this secret!"
 }
