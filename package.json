@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mva-one/mensabot-js#readme",
   "dependencies": {
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "telegraf": "^4.8.3"
   }
 }
