@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mva-one/mensabot-js/issues"
   },
-  "homepage": "https://github.com/mva-one/mensabot-js#readme"
+  "homepage": "https://github.com/mva-one/mensabot-js#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
 }
